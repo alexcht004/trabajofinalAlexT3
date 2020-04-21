@@ -1,1 +1,5 @@
-# trabajofinalAlexT3
+TRABAJO FINAL DE ENTORNO Y DESARROLLO
+
+ Alex Chalo Ticona
+ 
+ 
