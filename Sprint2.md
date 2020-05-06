@@ -15,11 +15,17 @@ En la parte inferior podemos observar un botón que  al presionarlo no registra 
 
 ![diagrama de clases2](https://user-images.githubusercontent.com/56443132/81226135-a3b6b200-8fea-11ea-8799-9704156c0d3d.JPG)
 
+la pagina **numero1.com ** interaciona principalmente con las clases usuario, concursante y usuario vip pero las clases  que se encarga de organisar estos son los diretivos, personal y directivo.
+
+En este diagrama de clases podemos obserbar de forma grafica las interacciones y funciones de una pagina web.
+
 ## Diagrama de objetos ##
 
 ### USUARIO
 
 ![usuario](https://user-images.githubusercontent.com/56443132/81226517-440cd680-8feb-11ea-92c1-4597e42fbd60.JPG)
+
+
 
 
 ### PERSONAL
