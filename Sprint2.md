@@ -46,13 +46,16 @@ En la parte inferior podemos observar un botón que  al presionarlo no registra 
 ## Fecha ##
 04 / 05 / 2020
 ## Tarea realizada por el alumno ##
-Pagina de registro
+Alex Chalo Ticona
 ## Tiempo empleado ##
 7:30 h
 ## Herramienta usada ##
 lucidchart
 ## Bibliografía usada ##
-Videos y páginas web de  tutoriales de  diagrama de clases, diagrama de objetos y documentos markdown
+Videos y páginas web de  tutoriales de   mockup, diagrama de clases, diagrama de objetos y documentos markdown
+
+https://balsamiq.cloud/sbcy5dl/p6pvaq2/r2278
+
 https://www.youtube.com/watch?v=Rhgg3hSI6I0&t=28s
 
 https://idoc.pub/documents/ejercicios-resueltos-de-diagramas-de-clases-uml-mwl1323zkvnj
