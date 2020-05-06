@@ -58,7 +58,7 @@ Alex Chalo Ticona
 ## Herramienta usada ##
 lucidchart
 ## Bibliografía usada ##
-Videos y páginas web de  tutoriales de   mockup, diagrama de clases, diagrama de objetos y documentos markdown
+Herramientas, videos y páginas web de  tutoriales de   mockup, diagrama de clases, diagrama de objetos y documentos markdown
 
 https://balsamiq.cloud/sbcy5dl/p6pvaq2/r2278
 
