@@ -1,5 +1,5 @@
 
-# Diagrama de actividades y casos de usos Alex Chalo Ticona
+# Fichas tecnicas y casos de uso Alex Chalo Ticona
 
 ## Casos de uso participar en la votacion. 
 
