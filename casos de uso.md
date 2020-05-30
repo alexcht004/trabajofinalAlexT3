@@ -9,12 +9,14 @@
 ## Casos de uso  loguearse o registrarse.
 
 
-![logearse](https://user-images.githubusercontent.com/56443132/83338634-92e61d00-a2c6-11ea-9bf1-d357b970bfa7.JPG)
+![logearse](https://user-images.githubusercontent.com/56443132/83338852-7945d500-a2c8-11ea-85ad-2a9a709f511e.JPG)
+
 
 
 ## Ficha tecnica votar
 
-![ficha d votar](https://user-images.githubusercontent.com/56443132/83338809-16ecd480-a2c8-11ea-972a-ec819b2be71c.JPG)
+![ficha d votar](https://user-images.githubusercontent.com/56443132/83338868-9bd7ee00-a2c8-11ea-8fb5-b808298453c5.JPG)
+
 
 ## Ficha tecnica logearse o registrase.
 
