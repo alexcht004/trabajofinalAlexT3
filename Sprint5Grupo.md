@@ -10,5 +10,6 @@
 ### Diagrama de actividades votar
 
 
-![diagrama de actividadesVotarD](https://user-images.githubusercontent.com/56443132/83339028-135a4d00-a2ca-11ea-991d-29afb5435669.JPG)
+![diagrama de actividadesVotarD](https://user-images.githubusercontent.com/56443132/83339084-777d1100-a2ca-11ea-99ee-3c3e5ae5c867.JPG)
+
 
