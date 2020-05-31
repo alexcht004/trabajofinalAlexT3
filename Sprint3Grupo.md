@@ -1,5 +1,5 @@
 
-# El codigo java esta en la rama master se llama numero1.es
+# El codigo java esta en la rama master se llama numero1
 
 # diagrama de clases de grupo.
 
